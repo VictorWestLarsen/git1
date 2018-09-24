@@ -14,6 +14,7 @@ namespace git1
             Console.WriteLine("Ny ændring");
             Console.WriteLine("En ændring mere <3");
             Console.WriteLine("Det er virker ikke");
+            Console.WriteLine("Ændring i git1 på pc2")
             Console.ReadLine();
 
         }
