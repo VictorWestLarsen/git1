@@ -13,6 +13,7 @@ namespace git1
             Console.WriteLine("hello git1");
             Console.WriteLine("Ny ændring på pc1");
             Console.WriteLine("Vi prøver igen på pc1");
+            Console.WriteLine("Vi kan da håbe");
             Console.ReadLine();
 
         }
